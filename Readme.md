@@ -51,3 +51,5 @@ $ flask run
 *	Feedback is provided to the user on how they can safely improve their pose in real time
 
 [Watch Demo Video](https://youtu.be/rJ501wact-o)
+
+![Working Demo Screenshot](https://github.com/Nandini-4120/Y2K/blob/master/Screenshot%202022-02-13%20at%2016.25.59.png?raw=true "Landing Page")
